@@ -1,7 +1,7 @@
 ---
-title: Thinkpad Tools
+title: Thinkpad (Windows 10)
 layout: default
-nav_order: 1
+nav_order: 4
 parent: Workstations
 grand_parent: Hardware
 ---
